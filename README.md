@@ -1,8 +1,10 @@
 ### Hi there 👋
+### 🔭 I’m currently working on myself
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailraqi&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
+
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/iraqi?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailraqi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ismailraqi/ismailraqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
