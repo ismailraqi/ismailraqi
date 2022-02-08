@@ -3,7 +3,7 @@
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailraqi&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/iraqi?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
+<p align="center"><img height="180em" src="https://badge42.herokuapp.com/api/stats/iraqi?privacyEmail=true&darkmode=true" alt="TopCodeBeast" align = "center"/></p>
 
 
 <!--
