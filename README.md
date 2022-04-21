@@ -3,7 +3,7 @@
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailraqi&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
 
-<p align="center"><img height="180em" src="https://badge42.herokuapp.com/api/stats/iraqi?privacyEmail=true&darkmode=true" alt="TopCodeBeast" align = "center"/></p>
+<p align="center"><img height="180em" src="https://badge42.vercel.app/api/v2/cl28e4oal001609l9x9zlmjnf/stats?cursusId=21&coalitionId=76" alt="TopCodeBeast" align = "center"/></p>
 
 
 <!--
