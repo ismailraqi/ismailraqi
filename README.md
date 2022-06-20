@@ -4,7 +4,7 @@
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailraqi&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
 
 <a href="https://github.com/ismailraqi?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailraqi&theme=dark"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailraqi&theme=dark"/>
 </a>
 
 
